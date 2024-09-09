@@ -1,6 +1,6 @@
 # 🌟 LendingClubDashboard Project
 
-<img src="landingclubdashboard.png" alt="Dashboard Overview" width="800">
+<img src="lendingclubdashboard.png" alt="Dashboard Overview" width="800">
 
 Welcome to the **LendingClubDashboard** project! This repository contains a Tableau dashboard designed to provide insightful analytics and key metrics related to lending clubs.
 
