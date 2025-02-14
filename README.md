@@ -19,7 +19,7 @@ Welcome to the **LendingClubDashboard** project! This repository contains a Tabl
 
 For any questions, feedback, or collaboration requests, feel free to reach out to me:
 
-- **Email**: [amna.sabahat@example.com](mailto:amnasabahat414@gmail.com)
+- **Email**: [amnasabahat414@gmail.com](mailto:amnasabahat414@gmail.com)
 - **LinkedIn**: [Amna Sabahat](https://www.linkedin.com/in/amna-sabahat-6b3713253/)
 - **GitHub**: [Amnasabahat](https://github.com/Amnasabahat)
 
